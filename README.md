@@ -1,6 +1,6 @@
 # Guide to your own artificial intelligence app in 3 steps
 ## 1) Clone repo and install requirements from requirements.txt
-`git clone https://github.com/norahsakal/pycaribbean-2019.git`  
+`git clone https://github.com/norahsakal/pycaribbean-2019-shades.git`  
 `pip install -r requirements.txt`
 
 ## 2) Train a model
