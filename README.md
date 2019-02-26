@@ -82,6 +82,7 @@ image_size = (<your size>,<your size>)
 
 ## 4. Run frontend
 `cd /frontend`  
+`npm install`  
 `npm start`  
 
 ### 4.1 Visit `http://localhost:3000` to test the newly trained model by uploading an image
